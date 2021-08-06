@@ -81,3 +81,5 @@ The tracking process and action taken on an element is called an event listener.
 In order to use array methods on the array-like object called a node-list we need to convert that node-list into an array of DOM elements.  Once converted all available array ethods can be used such as map or forEach. When we use the querySelectorAll a node-list will be returned. In order manipulate that node-list converting it to an array is necessary.
 
 5. What is a component?
+
+A component is a part of a larger whole. It is single modular pieces of code usually consisting of HTML, CSS, and JavaScript. It is reusuable, independant(meaning it can stand alone) and non-repetitive. 
